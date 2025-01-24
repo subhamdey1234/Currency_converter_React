@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.body{
+  background-image: url("https://getwallpapers.com/wallpaper/full/e/2/f/1112454-cash-money-wallpaper-2560x1600-for-iphone-5s.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+
+}
+.currency-converter{
+  background-color: rgba(8, 7, 7, 0.493);
+  border: 1px solid white;
+  border-radius: 30spx;
+  color: aliceblue;
+  backdrop-filter: blur( 6px );
+  -webkit-backdrop-filter: blur( 6px );
+   
+}
+#inputamount{
+  background-color:rgba(8, 7, 7, 0.493) ;
+  color: aliceblue;
+  font-weight: 900;
+}
